@@ -10,7 +10,7 @@ A 3D endless swimming game developed using a custom C++ OpenGL engine and contro
 
 **Program:** MSc Computer Science – University of the Arts London (UAL)
 
-**Repository:** https://git.arts.ac.uk/a-alhennawi0520251/swimmerProject
+**Repository:** https://github.com/Ahmed-Al-Hennawi/swimmerProject-UAL
 
 ---
 
